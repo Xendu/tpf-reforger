@@ -1,9 +1,9 @@
 GameProject {
- ID "TPF_Core"
- GUID "650D04F6EA0C3038"
- TITLE "TPF_Core"
+ ID "TPF_Vehicles"
+ GUID "650D0D1CBECFE554"
+ TITLE "TPF_Vehicles"
  Dependencies {
-  "58D0FB3206B6F859"
+  "650D04F6EA0C3038" "58D0FB3206B6F859" "615A80027C5C9170"
  }
  Configurations {
   GameProjectConfig PC {
